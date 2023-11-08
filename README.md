@@ -1,4 +1,4 @@
-------------------------------------------------------------| GOZAP E-COMMERCE WEBSITE |------------------------------------------------------------
+GOZAP E-COMMERCE WEBSITE |
 
 This is my Django project in which ,I have created a multipage website using Django Framework and have designed our templates using HTML ,CSS and Bootstrap.
 
